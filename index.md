@@ -42,6 +42,3 @@ This could be a reference to the alchemical imagery of aqua regia, a green lion 
 The Code
 <<<<<<< HEAD
 [View Documentation](The_Code.md)
-=======
-[View Documentation](The_Code)
->>>>>>> branch 'main' of https://github.com/Gnorplorp/Retyr.git
