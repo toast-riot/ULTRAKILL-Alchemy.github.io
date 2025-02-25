@@ -40,8 +40,4 @@ Topical research indicates Iranian origins.<br>
 This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)
 
 The Code
-<<<<<<< HEAD
 [View Documentation](The_Code.md)
-=======
-[View Documentation](The_Code)
->>>>>>> branch 'main' of https://github.com/Gnorplorp/Retyr.git
