@@ -5,8 +5,8 @@ Alternatively, DM @noisecrush on Discord.<br>
 
 # Analysis
 ![](images/image16.png)
-![](images/image8.png)
-*Don’t worry about this too much. It’s a C++ adjacent code structure.*
+![](images/image8.png)<br>
+*Don’t worry about this too much. It’s a C++ adjacent code structure.*<br>
 ![](images/image17.png)
 ![](images/image7.png)
 ![](images/image10.png)
@@ -17,7 +17,9 @@ Alternatively, DM @noisecrush on Discord.<br>
 `d29tYg==          `→ Womb → Most likely refers to creation or transformation possibly the [alembic](https://en.wikipedia.org/wiki/Alembic)<br>
 ##### Working Notes (*NOT CONCRETE*) : 
 HeckTeck keeps mentioning Alchemy… this appears to reference both the archaic science and the C Dialect.(*I do not know either*)<br>
-Someone noted that the symbols on the skulls may be [alchemical](https://en.wikipedia.org/wiki/Alchemical_symbol).
+Someone noted that the symbols on the skulls may be [alchemical](https://en.wikipedia.org/wiki/Alchemical_symbol).<br>
+[The Code](The_Code.md)
+
 ## Skeletons and Symbols
 ![](images/image4.jpg)
 ![](images/image6.png)
