@@ -38,3 +38,6 @@ The image appears to be a statue of a lion with the head of a sun, and the face 
 Topical research indicates Iranian origins.<br>
 ~~I cannot find how this could be relevant to the title screen code.~~ <br>
 This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)
+
+The Code
+[View Documentation](The_Code)
