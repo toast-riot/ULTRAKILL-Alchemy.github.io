@@ -40,7 +40,7 @@ Topical research indicates Iranian origins.<br>
 This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)
 
 The Code: (Note - according to Heckteck there are 1-2 typos that should be fixed in an update)<br>
-[Click Here](The_Code.md)
+[Click Here](The_Code.md)<br>
 Or view some interpretations by others:<br>
 - [10_days_till_xmas](interpretations/10_days_till_xmas.md)<br>
 - [Tnker](interpretations/tnker.md)<br>
