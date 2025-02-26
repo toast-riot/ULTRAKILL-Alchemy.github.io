@@ -1,5 +1,5 @@
 Please send us any info/data you can gather.<br>
-![menu](images/image15.png)<br>
+<img src="images/image15.png" alt="menu" style="max-width: 100%; height: auto;"><br>
 Feel free to make a PR for any additions you feel are necessary [here](https://github.com/ULTRAKILL-Alchemy/ULTRAKILL-Alchemy.github.io/pulls).<br>
 Alternatively, DM @noisecrush on Discord.<br>
 
@@ -30,7 +30,7 @@ Someone noted that the symbols on the skulls may be [alchemical](https://en.wiki
 ## The Sun Headed Lion Statue
 ![this fucker might also be important](images/image11.png)<br>
 2/24/25<br>
-![Lion statue](images/image13.png)<br>
+<img src="images/image13.png" alt="Lion statue" style="max-width: 100%; height: auto;"><br>
 ![](images/image1.png)<br>
 Midas my muse?<br>
 ![Alt view of lion statue](images/image5.png)<br>
