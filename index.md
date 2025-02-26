@@ -41,9 +41,10 @@ This could be a reference to the alchemical imagery of aqua regia, a green lion 
 
 The Code: (Note - according to Heckteck there are 1-2 typos that should be fixed in an update)<br>
 [Click Here](The_Code.md)<br>
-Or view some interpretations by others:
+Or view some interpretations by others:<br>
 - [10_days_till_xmas](interpretations/10_days_till_xmas.md)<br>
 - [Tnker](interpretations/tnker.md)<br>
 - [Fikou](interpretations/fikou.md)<br>
 - [Juice Cube](interpretations/juice_cube.md)<br>
+
 Add your own! [Link to the GitHub](https://github.com/ULTRAKILL-Alchemy/ULTRAKILL-Alchemy.github.io)
