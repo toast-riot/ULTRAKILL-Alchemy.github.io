@@ -1,0 +1,4 @@
+# Force CRLF for all text files
+* text=auto
+*.md text eol=crlf
+*.txt text eol=crlf
