@@ -7,10 +7,10 @@ Alternatively, DM @noisecrush on Discord.<br>
 ![](images/image16.png)
 ![](images/image8.png)<br>
 *Don’t worry about this too much. It’s a C++ adjacent code structure.*<br>
-![](images/image17.png)
-![](images/image7.png)
-![](images/image10.png)
-![](images/image14.png)
+![](images/image17.png)<br>
+![](images/image7.png)<br>
+![](images/image10.png)<br>
+![](images/image14.png)<br>
 
 `dHjpc21|Z2|zdhVz  `→ Trismegitus → Father of Alchemy<br>
 `cHJpbmNpcGx|      `→ Principle  → Could refer to the principles of alchemy<br>
@@ -18,14 +18,14 @@ Alternatively, DM @noisecrush on Discord.<br>
 ##### Working Notes (*NOT CONCRETE*) : 
 HeckTeck keeps mentioning Alchemy… this appears to reference both the archaic science and the C Dialect.(*I do not know either*)<br>
 Someone noted that the symbols on the skulls may be [alchemical](https://en.wikipedia.org/wiki/Alchemical_symbol).<br>
-[The Code](The_Code.md)
+[The Code](The_Code.md)<br>
 
 ## Skeletons and Symbols
-![](images/image4.jpg)
-![](images/image6.png)
-![](images/image12.png)
-![](images/image2.png)
-![](images/image18.png)
+![](images/image4.jpg)<br>
+![](images/image6.png)<br>
+![](images/image12.png)<br>
+![](images/image2.png)<br>
+![](images/image18.png)<br>
 - Damaton
 ## The Sun Headed Lion Statue
 ![this fucker might also be important](images/image11.png)<br>
