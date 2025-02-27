@@ -15,10 +15,6 @@ Alternatively, DM @noisecrush on Discord.<br>
 `dHjpc21|Z2|zdhVz  `→ Trismegitus → Father of Alchemy<br>
 `cHJpbmNpcGx|      `→ Principle  → Could refer to the principles of alchemy<br>
 `d29tYg==          `→ Womb → Most likely refers to creation or transformation possibly the [alembic](https://en.wikipedia.org/wiki/Alembic)<br>
-##### Working Notes (*NOT CONCRETE*) : 
-HeckTeck keeps mentioning Alchemy… this appears to reference both the archaic science and the C Dialect.(*I do not know either*)<br>
-Someone noted that the symbols on the skulls may be [alchemical](https://en.wikipedia.org/wiki/Alchemical_symbol).<br>
-[The Code](The_Code.md)<br>
 
 ## Main Menu Circuit
 Likely to be unrelated to the lore but still nice to have.<br>
@@ -30,20 +26,29 @@ Likely to be unrelated to the lore but still nice to have.<br>
 ![](images/image12.png)<br>
 ![](images/image2.png)<br>
 ![](images/image18.png)<br>
-- Damaton
+
 ## The Sun Headed Lion Statue
 ![this fucker might also be important](images/image11.png)<br>
-2/24/25<br>
 <img src="images/image13.png" alt="Lion statue" style="max-width: 100%; height: auto;"><br>
 ![](images/image1.png)<br>
-Midas my muse?<br>
 ![Alt view of lion statue](images/image5.png)<br>
 The image appears to be a statue of a lion with the head of a sun, and the face of a man. The head has fallen off and lies upside down on the ground.<br>
 Topical research indicates Iranian origins.<br>
-~~I cannot find how this could be relevant to the title screen code.~~ <br>
 This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)
 
-The Code: (Note - according to Heckteck there are 1-2 typos that should be fixed in an update)<br>
+## 4-3
+4-3 seems to be an alchemical facility. It contains piles of magnesium spread around the level.<br>
+Outside the Tomb of Kings are piles of gold.<br>
+The black material in the green/red torches is referred to as charcoal in the textures.<br>
+The blue material that gives off a teal fire is referred to in the textures as Copper Sulfate (Also known as Blue Vitriol, Roman Vitriol, Vitriol of Copper, Bluestone or Chalcanthum/Chalcanth/Calcanthum during the times).<br>
+It heats up a crucible full of magnesium, which sparks and releases teal fumes that go into vents.<br>
+We do not know the exact reaction going on yet, but it could be referring to the Green Lion eating the sun, purifying matter.<br>
+Alternatively, you can look at it from an elemental perspective. <br>
+Piles of metal are stored, there is a water system being piped, in the final arena huge vents move a colorless gas and throughout the level you light fires.<br>
+!!ADD PICTURES!!
+
+## The Code
+(Note - according to Heckteck there are 1-2 typos that should be fixed in an update)<br>
 [Click Here](The_Code.md)<br>
 Or view some interpretations by others:<br>
 - [10_days_till_xmas](interpretations/10_days_till_xmas.md)<br>
@@ -51,5 +56,6 @@ Or view some interpretations by others:<br>
 - [Fikou](interpretations/fikou.md)<br>
 - [Juice Cube](interpretations/juice_cube.md)<br>
 - [Wyverncult](interpretations/wyverncult.md)<br>
+- [Acres of Land](interpretations/acres_of_land.md)<br>
 
 Add your own! [Link to the GitHub](https://github.com/ULTRAKILL-Alchemy/ULTRAKILL-Alchemy.github.io)
