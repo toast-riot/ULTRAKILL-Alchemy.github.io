@@ -1,4 +1,5 @@
-``` C
+```C
+
 // Wyverncult (NBDS) - 2.26.2025. Current working theory, all is subject to change
 // Text references: Meteorology (Aristotle); Hermetic writings (Paracelsus); Emerald Tablet (Hermes). Working off of C programming, not C++.
 
