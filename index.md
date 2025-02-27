@@ -20,6 +20,10 @@ HeckTeck keeps mentioning Alchemy… this appears to reference both the archaic 
 Someone noted that the symbols on the skulls may be [alchemical](https://en.wikipedia.org/wiki/Alchemical_symbol).<br>
 [The Code](The_Code.md)<br>
 
+## Main Menu Circuit
+Likely to be unrelated to the lore but still nice to have.<br>
+![](images/image19.png)<br>
+
 ## Skeletons and Symbols
 ![](images/image4.jpg)<br>
 ![](images/image6.png)<br>
