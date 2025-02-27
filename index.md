@@ -23,9 +23,13 @@ Likely to be unrelated to the lore but still nice to have.<br>
 ## Skeletons and Symbols
 ![](images/image4.jpg)<br>
 ![](images/image6.png)<br>
+![](images/image3.png)<br>
 ![](images/image12.png)<br>
+![](images/image1.png)<br>
 ![](images/image2.png)<br>
 ![](images/image18.png)<br>
+Putting a skull on its colored altar makes the symbol on the skull glow and the altar fills with mercury/sulphur.<br>
+Putting a torch on the salt altar fills it with salt if it does something (P-1 entrance, the Moon torch in 4-2, generator room altar with the starting torch).<br>
 
 ## The Sun Headed Lion Statue
 ![this fucker might also be important](images/image11.png)<br>
@@ -34,7 +38,7 @@ Likely to be unrelated to the lore but still nice to have.<br>
 ![Alt view of lion statue](images/image5.png)<br>
 The image appears to be a statue of a lion with the head of a sun, and the face of a man. The head has fallen off and lies upside down on the ground.<br>
 Topical research indicates Iranian origins.<br>
-This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)
+This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)<br>
 
 ## 4-3
 4-3 seems to be an alchemical facility. It contains piles of magnesium spread around the level.<br>
@@ -43,9 +47,12 @@ The black material in the green/red torches is referred to as charcoal in the te
 The blue material that gives off a teal fire is referred to in the textures as Copper Sulfate (Also known as Blue Vitriol, Roman Vitriol, Vitriol of Copper, Bluestone or Chalcanthum/Chalcanth/Calcanthum during the times).<br>
 It heats up a crucible full of magnesium, which sparks and releases teal fumes that go into vents.<br>
 We do not know the exact reaction going on yet, but it could be referring to the Green Lion eating the sun, purifying matter.<br>
+We also have the generator room, which contains... well, giant generators, full of salt and salt skulls.<br>
+The generators are changed by what's put on the pedestal. They glow green and spin slowly with a torch, blue/red and spin fast with a blue/red skull.<br>
+The generators glowing green can also be found in the background in 4-S.<br>
 Alternatively, you can look at it from an elemental perspective. <br>
 Piles of metal are stored, there is a water system being piped, in the final arena huge vents move a colorless gas and throughout the level you light fires.<br>
-!!ADD PICTURES!!
+!!ADD PICTURES!!<br>
 
 ## The Code
 (Note - according to Heckteck there are 1-2 typos that should be fixed in an update)<br>
