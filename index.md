@@ -50,5 +50,6 @@ Or view some interpretations by others:<br>
 - [Tnker](interpretations/tnker.md)<br>
 - [Fikou](interpretations/fikou.md)<br>
 - [Juice Cube](interpretations/juice_cube.md)<br>
+- [Wyverncult](interpretations/wyverncult.md)<br>
 
 Add your own! [Link to the GitHub](https://github.com/ULTRAKILL-Alchemy/ULTRAKILL-Alchemy.github.io)
