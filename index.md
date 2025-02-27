@@ -34,11 +34,10 @@ Putting a torch on the salt altar fills it with salt if it does something (P-1 e
 ## The Sun Headed Lion Statue
 ![this fucker might also be important](images/image11.png)<br>
 <img src="images/image13.png" alt="Lion statue" style="max-width: 100%; height: auto;"><br>
-![](images/image1.png)<br>
-![Alt view of lion statue](images/image5.png)<br>
-The image appears to be a statue of a lion with the head of a sun, and the face of a man. The head has fallen off and lies upside down on the ground.<br>
-Topical research indicates Iranian origins.<br>
-This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is the gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)<br>
+![](images/image5.png)<br>
+![](images/image20.png)<br>
+The image appears to be a statue of a lion with its head missing, possibly stolen by the Hideous Mass. Next to it lies the Sun.<br>
+This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)<br>
 
 ## 4-3
 4-3 seems to be an alchemical facility. It contains piles of magnesium spread around the level.<br>
