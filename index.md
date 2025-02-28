@@ -51,7 +51,12 @@ The generators are changed by what's put on the pedestal. They glow green and sp
 The generators glowing green can also be found in the background in 4-S.<br>
 Alternatively, you can look at it from an elemental perspective. <br>
 Piles of metal are stored, there is a water system being piped, in the final arena huge vents move a colorless gas and throughout the level you light fires.<br>
-!!ADD PICTURES!!<br>
+![](images/image21.png)<br>
+![](images/image22.png)<br>
+![](images/image23.png)<br>
+![](images/image24.png)<br>
+![](images/image25.png)<br>
+![](images/image26.png)<br>
 
 ## The Code
 (Note - according to Heckteck there are 1-2 typos that should be fixed in an update)<br>
